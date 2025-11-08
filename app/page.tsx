@@ -48,7 +48,7 @@ export default async function Home() {
                     <div className="max-w-3xl mx-auto bg-white/40 backdrop-blur-md rounded-2xl p-10 shadow-lg border border-pink-200/40 animate-fade-up">
                         <h1 className="text-5xl font-bold mb-6 bg-gradient-to-r from-pink-500 to-rose-400 bg-clip-text text-transparent">Beautiful Flowers for Every Occasion</h1>
                         <p className="text-xl text-gray-700 mb-8">
-                            Handcrafted bouquets and gifts made with <span className="text-pink-400 animate-pulse">💖</span>
+                            Handcrafted bouquets and gifts made with <span className="text-pink-400 animate-pulse">❤️</span>
                         </p>
                         <a
                             href="#products"
