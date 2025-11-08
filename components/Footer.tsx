@@ -11,10 +11,10 @@ export default function Footer() {
                             <img src="/logo.png" alt="Logo" className="w-12 h-12 object-contain" />
                             <h3 className="text-2xl font-bold bg-gradient-to-r from-pink-500 to-rose-400 bg-clip-text text-transparent">HeyGifts Fleur</h3>
                         </div>
-                        <p className="text-gray-600 leading-relaxed mb-6">Your trusted florist for beautiful flower arrangements. We create memorable moments with fresh, handcrafted bouquets and buckets.</p>
+                        <p className="text-gray-600 leading-relaxed mb-6">Your trusted florist for beautiful flower arrangements. We create memorable moments with fresh, handcrafted bouquets and gifts.</p>
                         <div className="flex space-x-4">
                             <a
-                                href="https://instagram.com/yourflorist"
+                                href="https://www.instagram.com/heygifts.fleur/"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="w-12 h-12 bg-gradient-to-br from-pink-100 to-rose-100 rounded-full flex items-center justify-center hover:from-pink-400 hover:to-rose-400 transition-all duration-300 hover:scale-110 group"

@@ -47,7 +47,9 @@ export default async function Home() {
                 <div className="container mx-auto px-4 text-center relative z-10">
                     <div className="max-w-3xl mx-auto bg-white/40 backdrop-blur-md rounded-2xl p-10 shadow-lg border border-pink-200/40 animate-fade-up">
                         <h1 className="text-5xl font-bold mb-6 bg-gradient-to-r from-pink-500 to-rose-400 bg-clip-text text-transparent">Beautiful Flowers for Every Occasion</h1>
-                        <p className="text-xl text-gray-700 mb-8">Handcrafted bouquets and buckets made with love and fresh flowers</p>
+                        <p className="text-xl text-gray-700 mb-8">
+                            Handcrafted bouquets and gifts made with <span className="text-pink-400 animate-pulse">💖</span>
+                        </p>
                         <a
                             href="#products"
                             className="inline-block bg-gradient-to-r from-pink-400 to-rose-400 text-white px-8 py-4 rounded-lg text-lg font-semibold hover:from-pink-500 hover:to-rose-500 transition transform hover:scale-105 shadow-lg"
@@ -115,8 +117,8 @@ export default async function Home() {
                     <div className="max-w-3xl mx-auto text-center">
                         <h2 className="text-4xl font-bold mb-6 bg-gradient-to-r from-pink-500 to-rose-400 bg-clip-text text-transparent">About Us</h2>
                         <p className="text-gray-600 text-lg leading-relaxed">
-                            Florist Shop adalah toko bunga yang menyediakan berbagai macam bucket dan bouquet bunga segar untuk berbagai acara spesial Anda. Setiap rangkaian dibuat dengan penuh cinta dan perhatian terhadap detail untuk
-                            memberikan pengalaman terbaik bagi pelanggan kami.
+                            HeyGifts Fleur adalah toko bunga yang menyediakan berbagai macam bouquet bunga untuk berbagai acara spesial Anda. Setiap rangkaian dibuat dengan penuh cinta dan perhatian terhadap detail untuk memberikan
+                            pengalaman terbaik bagi pelanggan kami.
                         </p>
                     </div>
                 </div>
